@@ -9,7 +9,6 @@
 		- Awareness and Attention
 	- Websites and Communities
 - Neuroscience
-- TODO - unsorted
 
 <!-- /MarkdownTOC -->
 
@@ -78,7 +77,6 @@ Guided meditations by Culadasa and teachers:
 [There Is No Such Thing as Conscious Thought](https://www.scientificamerican.com/article/there-is-no-such-thing-as-conscious-thought/) Article on Scientific American
 
 <!---
-# TODO - unsorted
 
 http://www.freemeditationinfo.com/meditation-instructions/vipassana-meditation-techniques.html
 http://dharmatreasure.org/wp-content/uploads/jhanas-and-mindfulness-handout.pdf
@@ -147,7 +145,6 @@ http://en.dhammadana.org/dhamma/practice/8_precepts.htm
 https://dharmatreasure.org/practice-in-ones-daily-life/
 
 http://www.christophertitmuss.net/#!guided-meditations/c9ch
-https://chrisgagne.com/2284/free-30-minute-guided-metta-loving-kindness-meditation/
 http://www.lionsroar.com/studying-buddhism-online-where-to-go/
 https://vividness.live/2015/09/23/buddhist-ethics-is-a-fraud/#summary
 http://rc.leighb.com/more/The_Gradual_Training.htm
