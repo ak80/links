@@ -49,6 +49,7 @@ the AMA on reddit with Culadasa
 * [Culadasa Interview](https://youtu.be/roTWZ9GcBMY) on [Guru Viking](https://www.guruviking.com/)
 * (The brain science behin meditation)[https://www.youtube.com/watch?v=pKVYWhZK3w0] on the [Inspire Nation Podcast](https://inspirenationshow.com/)
 * [Starting Meditation](https://www.youtube.com/watch?v=LlrC9xh6OzQ) by [Upali](https://upalimeditation.com/)
+* [Dharma Treasure Curriculum](https://dharmatreasure.org/section/dharma-talks/curriculum/)
 
 ### Guided Meditations
 
@@ -76,9 +77,8 @@ Guided meditations by Culadasa and teachers:
 
 [There Is No Such Thing as Conscious Thought](https://www.scientificamerican.com/article/there-is-no-such-thing-as-conscious-thought/) Article on Scientific American
 
+<!---
 # TODO - unsorted
-
-todo: incorporate TMI links markdown
 
 http://www.freemeditationinfo.com/meditation-instructions/vipassana-meditation-techniques.html
 http://dharmatreasure.org/wp-content/uploads/jhanas-and-mindfulness-handout.pdf
@@ -101,13 +101,10 @@ http://dharmatreasure.org/wp-content/uploads/jhanas-and-mindfulness-handout.pdf
 stages
 
 https://friederishi.files.wordpress.com/2013/09/9-stages-samatha-meditation.jpg?w\u003d600\u0026h\u003d785
-http://www.consciouslifestylemag.com/ten-stages-of-meditation-complete-guide/
 https://36.media.tumblr.com/tumblr_ludaoameZh1r60ra4o1_500.jpg
 http://dharmakirtan.blogspot.de/2014/09/nine-stages-of-meditation.html
 http://3.bp.blogspot.com/-MA7ybXcFXo8/VAjOqO6FxyI/AAAAAAAABu4/5erJnfpo2dw/s1600/Nine%2BStages%2BOf%2BShamatha.jpg
 http://3.bp.blogspot.com/-MA7ybXcFXo8/VAjOqO6FxyI/AAAAAAAABu4/5erJnfpo2dw/s1600/Nine%2BStages%2BOf%2BShamatha.jpg
-http://www.consciouslifestylemag.com/wp-content/uploads/2015/10/ten-stages-of-meditation-illustration.jpg
-http://images.google.de/imgres?imgurl=http%3A%2F%2Fterebess.hu%2Fenglish%2Fimg%2Fp02.jpg&imgrefurl=http%3A%2F%2Fterebess.hu%2Fenglish%2Foxherd27.html&h=1426&w=830&tbnid=hZpJuRSTTvCXQM%3A&docid=RJ7V4oaYtBKi9M&ei=OhoAV4z6AoGfsAHHtbiwDw&tbm=isch&iact=rc&uact=3&dur=527&page=1&start=0&ndsp=22&ved=0ahUKEwiM_8CB1fDLAhWBDywKHccaDvYQMwhBKBIwEg
 http://www.dharmafellowship.org/library/essays/nine-stages-of-abiding.htm
 http://gnosticteachings.org/faqs/meditation/575-stages-of-meditative-concentration.html
 https://www.youtube.com/watch?v=_90NqOR0tAg
@@ -157,3 +154,4 @@ http://rc.leighb.com/more/The_Gradual_Training.htm
 
 https://www.youtube.com/watch?v=S7emPAZByLk&t=1236s
 http://essentialsomatics.com/hanna-somatics-articles-case-studies/pandiculation-safe-alternative-stretching
+-->
