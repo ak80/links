@@ -8,6 +8,7 @@
 	- Topics
 		- Awareness and Attention
 	- Websites and Communities
+- Qi Gong
 - Neuroscience
 
 <!-- /MarkdownTOC -->
@@ -71,6 +72,25 @@ Guided meditations by Culadasa and teachers:
 * [dharmatreasurecommunity.org](https://dharmatreasurecommunity.org/): the forum for the Dharma Treasure Sangha
 * [reddit.com/r/TheMindIlluminated](https://www.reddit.com/r/TheMindIlluminated) The subreddit for TMI with an excellent [wiki](https://www.reddit.com/r/TheMindIlluminated/wiki)
 * There is a group for the [Insight Timer App](https://insighttimer.com/) called ”The Mind Illuminated book discussion”
+
+# Qi Gong, Taiji and Daoism
+
+## Zhan Zhuang
+* [Zhan Zhuang Videos](https://www.youtube.com/playlist?list=PL5AC656794EE191C1) "Stand Like A Tree" Videos, with Lam Kam Chue
+* [Zhan Zhuang](https://scottjeffrey.com/zhan-zhuang/#The_Ancient_Art_of_Standing_Like_a_Tree) Article about Standing Meditation
+
+## Video Talks 
+
+* [Dragon & Tiger](https://www.youtube.com/watch?v=KsezjAewfR8) Video by Don Myers, about Dragon and Tiger Medical Qi Gong
+* [Taoist Neigong](https://www.youtube.com/watch?v=e2RLu9w4Kz0&t=1968s) by Don Myers about Tai Chi, Qigong, and Meditation
+* [Tai Chi and Meditation](https://www.youtube.com/watch?v=4GLfcQL8rYM) by Don Myers about Tai Chi
+* [Taoist Mediation](https://www.youtube.com/watch?v=INCpiuoqkbk) by Don Myers about the Dissolving Methods
+* [Yin & Yang](https://www.youtube.com/watch?v=QmjblScKOPw&t=2s) by Don Myers about Yin and Yang
+
+## Qi Qong
+
+* [Qi Gong Side Effects](http://sifuwallace.com/side-effects-qigong-fails/)
+* [Qi Gong Common Sensations](https://dankleiman.com/2013/01/15/common-sensations-that-arise-when-you-are-developing-chi/)
 
 # Neuroscience
 
