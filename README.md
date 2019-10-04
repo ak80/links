@@ -89,6 +89,7 @@ Guided meditations by Culadasa and teachers:
 
 ## Qi Qong
 
+* [Dragon & Tiger Qi Gong](https://www.youtube.com/watch?v=a-g0bGWDgIk) video demo by Paul Cavel 
 * [Qi Gong Side Effects](http://sifuwallace.com/side-effects-qigong-fails/)
 * [Qi Gong Common Sensations](https://dankleiman.com/2013/01/15/common-sensations-that-arise-when-you-are-developing-chi/)
 
