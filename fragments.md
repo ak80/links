@@ -1,0 +1,1 @@
+When your enemies behave badly you attribute it to their character, to who they are, that the did it with intention. With your friends you attribute it to circumstance. And if your friends behave good you attribute it to their character, and for your enemies to circumstance. This is also true for yourself

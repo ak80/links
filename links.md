@@ -15,7 +15,8 @@
     - Video Talks
     - Qi Qong
 - Body
-- Neuroscience
+- Buddhism
+- Neuroscience, Philosophy and Psychology
 
 <!-- /MarkdownTOC -->
 
@@ -47,7 +48,7 @@ the AMA on reddit with Culadasa
 * [Tips for Stage 4 – Part 1](https://www.reddit.com/r/TheMindIlluminated/comments/77j5tr/tips_for_stage_4/) a post on reddit by Nick Grabovac
 * [Tips for Stage 4 – Part 2](https://www.reddit.com/r/TheMindIlluminated/comments/7dr2kj/tips_for_stage_4_part_2/) a post on reddit by Nick Grabovac
 * The Yahoo Group [Jhana and Insight](https://groups.yahoo.com/neo/groups/jhana_insight/info) which isn’t really active anymore
-
+* [Intend-Release-Notice](https://trello.com/c/YazxgCm3/415-https-abhayakarafuguecom-blog-2019-1-7-the-intendreleasenotice-loop) How to work with intentions, by Abhayakara
 
 ### Interviews, podcast and video teachings
 
@@ -114,9 +115,17 @@ Guided meditations by Culadasa and teachers:
 * [Hand and wrist stretching](https://twitter.com/bruderkaitlin/status/997190969031319552?lang=en) a small info graphic for helpful stetches
 * [Hand, wrist finger stretches](https://twitter.com/bruderkaitlin/status/997190969031319552?lang=en) a video showing stretches for hand, wrist and finger 
 
-# Neuroscience
+# Buddhism
 
-[There Is No Such Thing as Conscious Thought](https://www.scientificamerican.com/article/there-is-no-such-thing-as-conscious-thought/) Article on Scientific American
+* [Rebirth in Buddhism, Discussion with Analayo](https://youtu.be/YLT63llyQgI)
+* [Reinventing Vipassana](https://vividness.live/2011/07/07/theravada-reinvents-meditation/) An article about the reinvention of meditation in Theravada
+
+# Neuroscience, Philosophy and Psychology
+
+* [There Is No Such Thing as Conscious Thought](https://www.scientificamerican.com/article/there-is-no-such-thing-as-conscious-thought/) Article on Scientific American
+* [TED Talk "Happy Brain"](https://youtu.be/KZIGekgoaz4) Amit Soot talks about positive psychology
+* [Awakening from the meaning crisis](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ)
+
 
 <!---
 
