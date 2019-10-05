@@ -10,4 +10,4 @@
 
 *The problem is not the problem. The problem is your attitude about the problem.* - Jack Sparrow (Pirates of the Carribean)
 
-*Any understanding of the world or even of Buddhist practice is a construct of the mind. Paradoxically, for practitioners, Buddhist teachings are constructs of mind that point beyond themselves.* Gil Fronsdal, [source](htps://www.inquiringmind.com/article/3102_14_fronsdal-when-mindfulness-is-too-much/)
+*Any understanding of the world or even of Buddhist practice is a construct of the mind. Paradoxically, for practitioners, Buddhist teachings are constructs of mind that point beyond themselves.* Gil Fronsdal, [source](https://www.inquiringmind.com/article/3102_14_fronsdal-when-mindfulness-is-too-much/)
