@@ -9,6 +9,7 @@
 		- Awareness and Attention
 	- Websites and Communities
 - Qi Gong, Taiji and Daoism
+- Body
 - Neuroscience
 
 <!-- /MarkdownTOC -->
@@ -99,6 +100,9 @@ Guided meditations by Culadasa and teachers:
 * [Dragon & Tiger Qi Gong](https://www.youtube.com/watch?v=a-g0bGWDgIk) video demo by Paul Cavel 
 * [Qi Gong Side Effects](http://sifuwallace.com/side-effects-qigong-fails/)
 * [Qi Gong Common Sensations](https://dankleiman.com/2013/01/15/common-sensations-that-arise-when-you-are-developing-chi/)
+
+# Body
+* [How to breathe](https://patrikedblad.com/habits/how-to-breathe/) A breathing guide
 
 # Neuroscience
 
