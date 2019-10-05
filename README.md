@@ -8,10 +8,17 @@
 	- Topics
 		- Awareness and Attention
 	- Websites and Communities
-- Qi Gong
+- Qi Gong, Taiji and Daoism
 - Neuroscience
 
 <!-- /MarkdownTOC -->
+
+# Meditation
+
+## Jhana
+
+* [A guide to the samatha Jhanas (Part 1: The form Jhanas)](https://www.youtube.com/watch?v=Nkj8RfjVYrc)
+* [A guide to the samatha Jhanas (part 2: The formless Jhanas)](https://www.youtube.com/watch?v=mjRy5J1uQII)
 
 # The Mind Illuminated
 
