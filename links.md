@@ -160,6 +160,7 @@ https://www.youtube.com/watch?v=_90NqOR0tAg
 http://www.peacefulgarden.ca/Teachings/Meditation/00-Meditation-TableOfContents.html
 https://www.youtube.com/watch?v=GVoIxju59lc&feature=youtu.be
 
+https://www.reddit.com/r/TheMindIlluminated/comments/9ohg5q/escaping_a_lifetime_sentence_to_stage_4/?utm_medium=android_app&utm_source=share
 
 http://rc.leighb.com/more/A_Partial_List_of_Insight_Practices.htm
 
